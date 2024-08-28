@@ -15,8 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Favorite Things about CS193 
+- Fun homework assignments
+- Easy attendance quizzes
+- Chill class
 
 1. Numbered
 2. List
