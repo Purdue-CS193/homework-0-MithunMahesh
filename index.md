@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 # Mithun Mahesh's First CS193 Homework
 
-- Favorite Things about CS193 
 - Fun homework assignments
 - Easy attendance quizzes
 - Chill class
